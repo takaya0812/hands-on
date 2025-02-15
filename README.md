@@ -3,3 +3,5 @@ test
 hands-on 
 study
 push
+add
+commit
